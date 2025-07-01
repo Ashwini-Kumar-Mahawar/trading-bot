@@ -1,0 +1,62 @@
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+🔁 Running the trading bot...
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01')
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+['AAPL']: Timeout('Failed to perform, curl: (28) Connection timed out after 10055 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+Signal file created: signals.csv
+🔁 Running the trading bot...
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('AAPL', start='2024-01-01', end='2024-07-01', timeout=30)
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+🔁 Running the trading bot...
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('MSFT', start='2025-01-01', end='2025-07-01', timeout=30)
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
+/home/ashwini/trading-bot/bot.py:5: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  data = yf.download('MSFT', start='2024-01-01', end='2024-07-01', timeout=30)
+[*********************100%***********************]  1 of 1 completed
+Signal file created: signals.csv
