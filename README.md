@@ -73,7 +73,7 @@ An automated trading bot built with Python to fetch stock data, generate trade s
     
 ---
 
-### 📧 (Optional) Email Alerts
+### 📧 Email Alerts
 - Install mail tools:
     ```bash
     sudo apt install mailutils
